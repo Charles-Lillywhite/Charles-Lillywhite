@@ -5,9 +5,6 @@
      
 - 📈 💵 My master's project made extensize use of Python to simulate the quantum mechanical technique of *reverse annealing*, and how this can be used to
  optimise the returns of simple investment portfolios. 
-
-- 🧠 I’m currently learning as much as I can about software development, and computer science in general. In the last few months I have been working
-     hard to teach myself about Algorithms, Data Structures, Memory, OOP, Big O notation, and much more.
  
 - 🤖 My recent personal projects include a simple web application, and an automated email bot
 
